@@ -6,16 +6,22 @@
    * completed
    * uncompleted
    * favorite
-   * navigation to :
+   * navigation to 
       * scheduale 
       * search 
       * add new task
       * delete all tasks 
-  * add new tasks 
+      * details
+  * add new tasks :
       * fields and button to add 
       * the same page when you navigate to it by edit button it will be to update all feilds of the task 
-  * schedule 
+  * schedule :
     * date timeline scroll infinite to show all taks at its date time  
+    * all date time and tasks interactive 
+  * details :
+    * that have all task details you can navigate to it any wher you click on the task card 
+    * it have an edit button to edit all task feilds 
+  *  when you clich on notification you go to the task
 # screenshots
 
 
