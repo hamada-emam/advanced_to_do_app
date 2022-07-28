@@ -1,6 +1,6 @@
 # todotasks app 
 
-# appstructur logic 
+# App 
  * board :
    * all tasks 
    * completed
