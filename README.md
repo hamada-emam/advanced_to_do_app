@@ -21,8 +21,15 @@
   * details :
     * that have all task details you can navigate to it any wher you click on the task card 
     * it have an edit button to edit all task feilds 
-  *  when you clich on notification you go to the task
+  * when you click on notifications you go to the task schedual by its date time 
+  * search 
+      * search by key words and click search to have all tasks is there no tasks it will be show you an empty value 
+  * delete all tasks with the delete button on the head of the boerd screen  
 # screenshots
+
+
+https://user-images.githubusercontent.com/95125518/181482145-bf92d594-0b9e-4123-a6e1-3f3edd60f28a.mp4
+
 
 
 <p align=""left>
